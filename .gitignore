@@ -9,3 +9,6 @@ wheels/
 
 # Virtual environments
 .venv
+
+# VS Code workspace file
+worldbanc.code-workspace
